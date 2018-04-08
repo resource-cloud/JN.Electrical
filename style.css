@@ -132,6 +132,18 @@ z-index: 2;
     box-shadow: 0px 0px 10px rgba( 0, 0, 0, .5);
 }
 
+.box-contact-reviews {
+    position: absolute;
+    top: 11px;
+    left: 130px;
+    padding: 10px;
+    background: white;
+    width: 89%;
+    height: 16px;
+    border-radius: 20px 0px 0px 20px;
+    box-shadow: 0px 0px 10px rgba( 0, 0, 0, .5);
+}
+
 .underlay {
     background: #dddfe2;
     position: fixed;
